@@ -26,7 +26,7 @@
 
 ### 👩🏽‍💻 What I'm about
 
-I'm a full-stack web developer with a passion for beauty, skincare, fragrance, and nail care. I specialize in creating tailored e-commerce solutions for beauty brands, leveraging my unique experience running an online nail shop to deliver seamless and delightful shopping experiences for customers.
+I'm a full-stack web developer with a passion for beauty, skincare, fragrance, and nail care, currently aspiring to specialize in creating tailored e-commerce solutions for beauty brands. With a unique background in running an online nail shop and strong web development skills, I'm excited to apply my expertise in helping beauty brands succeed in the online market.
 
 - 🌐 My expertise:
   - Full-stack web development
