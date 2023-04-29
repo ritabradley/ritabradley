@@ -26,15 +26,26 @@
 
 ### 👩🏽‍💻 What I'm about
 
-I'm a Full-Stack JavaScript Developer currently living in Las Vegas. <img src="https://media.giphy.com/media/jtR6Yd7Aj2uzPqJ046/giphy.gif" width="50" /> 
+I'm a full-stack web developer with a passion for beauty, skincare, fragrance, and nail care. I specialize in creating tailored e-commerce solutions for beauty brands, leveraging my unique experience running an online nail shop to deliver seamless and delightful shopping experiences for customers.
+
+- 🌐 My expertise:
+  - Full-stack web development
+  - Beauty e-commerce and retail solutions
+  - Skincare, fragrance, and nail care industry
 
 - 🧠 Currently Learning: Typescript, UI/UX Design, and deepening my knowledge of Node.js, Express, and MongoDB
+
 - 🔭 Working On: Rebuilding and launching my portfolio/blog site
+
 - 🤔 Interested In: CyberSecurity & ethical hacking. I blame the show Mr. Robot for this fascination
+
 - 💥 In my freetime I enjoy watching true crime documentaries, doing fun crafts with my kid, and I'm a major foodie (though I'm trying to cut back.)
 - 📧 You can reach me at: 
+
   - [![Email Badge](https://img.shields.io/badge/-rita@ritabradley.dev-8632E6?style=flat&logo=Gmail&logoColor=white)](mailto:rita@ritabradley.dev)
+
   - [![LinkedIn Badge](https://img.shields.io/badge/-ritabradley-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ritabradley)
+  
   - [![Twitter Badge](https://img.shields.io/badge/-ritabradley\__dev-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ritabradley_dev)
 
 ---
