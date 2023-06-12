@@ -26,12 +26,13 @@
 
 ### 👩🏽‍💻 What I'm about
 
-I'm a full-stack web developer with a passion for beauty, skincare, fragrance, and nail care, currently aspiring to specialize in creating tailored e-commerce solutions for beauty brands. With a unique background in running an online nail shop and strong web development skills, I'm excited to apply my expertise in helping beauty brands succeed in the online market.
+I'm a full-stack web developer, currently deepening my skills in JavaScript, and stepping into the exciting field of IoT and home automation. While I haven't built any smart home solutions yet, I am fervently learning and preparing to apply my web development expertise in this innovative sphere.
 
-- 🌐 My expertise:
-  - Full-stack web development
-  - Beauty e-commerce and retail solutions
-  - Skincare, fragrance, and nail care industry
+🌐 My current focus:
+
+- Strengthening full-stack web development skills
+- Learning IoT and home automation concepts
+- Preparing to build user-friendly smart home solutions
 
 - 🧠 Currently Learning: Typescript, UI/UX Design, and deepening my knowledge of Node.js, Express, and MongoDB
 
